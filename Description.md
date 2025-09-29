@@ -4,7 +4,6 @@
 
 
 <h3>AIM:</h3>
-<br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
 <h3>Theory</h3>
