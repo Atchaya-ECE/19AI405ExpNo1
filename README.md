@@ -93,6 +93,7 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 # OUTPUT:
+```
 {
  "cells": [
   {
@@ -433,6 +434,6 @@ if __name__ == "__main__":
  "nbformat": 4,
  "nbformat_minor": 5
 }
-
+```
 # RESULT:
  PEAS description for the given AI problem and develop an AI agent was observed successfully.
